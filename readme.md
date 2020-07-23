@@ -1,4 +1,4 @@
-Tmux personal notes
+Tmux quick commands
 -----------------
 
 # Welcome!
