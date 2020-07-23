@@ -2,8 +2,8 @@ Tmux quick commands
 -----------------
 
 # Welcome!
-Thanks for reading this, all the info are original from internt and will be honoured if this helpful.
-If there is any mistakes wecolme to pointed out.
+Thanks for reading this, all the info are original from internt and hope this is helpful.
+If there are any mistakes wecolme to point out.
 
 # What is tmux?
 tmux’s authors describe it as a terminal multiplexer. Behind this fancy term hides a simple concept: Within one terminal window you can open multiple windows and split-views (called “panes” in tmux lingo). Each pane will contain its own, independently running terminal instance. This allows you to have multiple terminal commands and applications running visually next to each other without the need to open multiple terminal emulator windows.
