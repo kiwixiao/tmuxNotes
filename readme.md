@@ -32,4 +32,10 @@ if you want to start a session with custmosied or meaningful name "mysession", t
 ### tmux rename-session -t 0 newname
 if you want to rename the current session with new name "newname".
 
+### control + d
+withing a tmux session, if you want to close the current session.
+
+### tmux kill-session -t session-name
+just like attach to a seesion, if you want to close a session without attach to it. this command will do it.
+
     
